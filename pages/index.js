@@ -1,5 +1,5 @@
 function Header(){
-    return  <h1>Opa, eu gosto muito de você :v</h1>
+    return <a href="/Lutinha/Lutinha.html">Quer jogar um jogo?</a>   
 }
 
 export default Header;
